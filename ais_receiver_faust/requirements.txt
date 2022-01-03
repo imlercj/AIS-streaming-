@@ -1,0 +1,2 @@
+libais==0.17
+kafka-python
